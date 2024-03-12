@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\bin\Debug\net6.0\arrays task.exe
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\bin\Debug\net6.0\arrays task.deps.json
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\bin\Debug\net6.0\arrays task.runtimeconfig.json
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\bin\Debug\net6.0\arrays task.dll
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\bin\Debug\net6.0\arrays task.pdb
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\arrays task.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\arrays task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\arrays task.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\arrays task.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\arrays task.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\arrays task.dll
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\refint\arrays task.dll
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\arrays task.pdb
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\arrays task.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Regex Task\C#\Task 2 Tarix\arrays task\obj\Debug\net6.0\ref\arrays task.dll
